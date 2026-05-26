@@ -9,7 +9,7 @@ Ushbu repozitoriyada Katta til modellari (LLM) qanday ishlashi va ularning ortid
 
 | Fayl nomi | Mavzu | Kontent / O'rganilgan tushunchalar | Status |
 | :--- | :--- | :--- | :--- |
-| `main.py` | **PyTorch Asoslari** | Tensorlar, Shape (o'lchamlar), Matritsalar ko'paytmasi (`@`) va GPU (CUDA) integratsiyasi. | ✅ Bajarildi |
+| `dars-1.py` | **PyTorch Asoslari** | Tensorlar, Shape (o'lchamlar), Matritsalar ko'paytmasi (`@`) va GPU (CUDA) integratsiyasi. | ✅ Bajarildi |
 | `dars-3.py` | **Training Loop (O'qitish sikli)** | `nn.Module`, Forward/Backward pass, Loss funksiyasi va Gradientlar portlashi (*Exploding Gradients*) muammosini normalizatsiya orqali hal qilish. | ✅ Bajarildi |
 | `dars-4.py` | **NLP va Embedding** | Matnni tokenizatsiya qilish, unikal Lug'at (*Vocabulary*) tuzish va so'zlarni ma'noli ko'p o'lchamli vektorlarga (`nn.Embedding`) o'girish. | ✅ Bajarildi |
 | *Tez orada...* | **Attention (Diqqat) mexanizmi** | Transformer arxitekturasining yuragi bo'lgan Self-Attention mexanizmini noldan yozish. | ⏳ Rejada |
